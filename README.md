@@ -224,7 +224,7 @@ La plataforma permite:
 # 📂 Estructura del Proyecto
 
 ```bash
-RelatosHub/
+Pagina-Relatos/
 │
 ├── src/
 │   ├── components/
@@ -248,7 +248,7 @@ RelatosHub/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/RelatosHub
+git clone https://github.com/isairey/Pagina-Relatos
 ```
 
 ---
