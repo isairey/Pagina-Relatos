@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ config.description }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;900&display=swap"
+      rel="stylesheet"
+    />
+    <title>{{ title }}</title>
+    {% set css %}
+      {% include "../style/reset.css" %}
+      {% include "../style/base.css" %}
+    {% endset %}
+    <style>
+      {{ css | cssmin | safe }}
+    </style>
+    <style>
+    </style>
+  </head>
+  <body>
+    {{ content | safe }}
+  </body>
+</html>

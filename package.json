@@ -1,0 +1,29 @@
+{
+  "name": "relatos-victorcalzon-com",
+  "version": "1.0.0",
+  "description": "Source for relatos.victorcalzon.com website",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungfunk/relatos-victorcalzon-com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kungfunk/relatos-victorcalzon-com/issues"
+  },
+  "homepage": "https://github.com/kungfunk/relatos-victorcalzon-com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  },
+  "dependencies": {
+    "clean-css": "^5.1.0"
+  }
+}
