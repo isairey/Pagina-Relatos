@@ -46,57 +46,8 @@ La plataforma permite:
 - 🏷️ Explorar categorías y etiquetas
 - 🔍 Buscar contenido fácilmente
 
----
 
-# 📸 Preview
 
-## 🏠 Página Principal
-
-<div align="center">
-
-<img src="screenshots/home.png" width="900"/>
-
-</div>
-
----
-
-## 📖 Lectura de Relato
-
-<div align="center">
-
-<img src="screenshots/story.png" width="900"/>
-
-</div>
-
----
-
-## ✍️ Editor de Publicaciones
-
-<div align="center">
-
-<img src="screenshots/editor.png" width="900"/>
-
-</div>
-
----
-
-## 👤 Perfil de Autor
-
-<div align="center">
-
-<img src="screenshots/profile.png" width="900"/>
-
-</div>
-
----
-
-## 📚 Biblioteca de Relatos
-
-<div align="center">
-
-<img src="screenshots/library.png" width="900"/>
-
-</div>
 
 ---
 
